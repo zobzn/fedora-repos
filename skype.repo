@@ -1,4 +1,4 @@
-[skype-stable]
+[skype]
 name=skype (stable)
 baseurl=https://repo.skype.com/rpm/stable/
 enabled=1
